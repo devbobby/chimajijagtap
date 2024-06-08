@@ -1,3 +1,3 @@
 # chimajijagtap
-ritesh jagta
+ritesh jagtap
 
